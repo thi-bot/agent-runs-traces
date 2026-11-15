@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "wagtail/wagtail",
+  "evaluation": "braindump",
+  "snapshot": "20261002",
+  "created_at": "2026-11-15T10:27:22.601231+00:00",
+  "source_repository": "https://github.com/thi-bot/agent-runs",
+  "source_revision": "3170f2d9115f84bee0af0de1bbc7055dcf956bd9",
+  "source_paths": [
+    "braindump-runs/runs/wagtail/wagtail/extractions.jsonl.gz"
+  ],
+  "reason": "Per-review-comment braindump extractions behind the wagtail/wagtail rule set: the provenance chain from raw PR comments to rules.",
+  "archive": {
+    "file": "evidence.tar.gz",
+    "sha256": "f7a185d5d293f036d56c0b1eb1a91916b25f9492de035d595b106421168b4d1a",
+    "bytes": 8333501,
+    "files": 1,
+    "payload_bytes": 8385261
+  },
+  "files": [
+    {
+      "path": "braindump-runs/runs/wagtail/wagtail/extractions.jsonl.gz",
+      "bytes": 8385261,
+      "sha256": "e09dc9e7b4201e23d6cc3336cd65b25e1564d437121431040d4ed3e4dd9b4f1a"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "project": "wagtail/guide",
+  "evaluation": "accessibility-audit",
+  "snapshot": "2026-10-06-guide",
+  "created_at": "2026-11-15T10:27:22.601231+00:00",
+  "source_repository": "https://github.com/thi-bot/agent-runs",
+  "source_revision": "3170f2d9115f84bee0af0de1bbc7055dcf956bd9",
+  "source_paths": [
+    "accessibility-agents/2026-10-06-guide/raw/crawl.json",
+    "accessibility-agents/2026-10-06-guide/raw/responsive.json",
+    "accessibility-agents/2026-10-06-guide/raw/states.json",
+    "accessibility-agents/2026-10-06-guide/raw/state-404.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-copy-link-success.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-copy-success.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-feedback-mocked-open.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-feedback-mocked-submitted.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-modal-empty.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-modal-open.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-modal-results.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-search-blank.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-search-empty.html",
+    "accessibility-agents/2026-10-06-guide/raw/state-search-results.html"
+  ],
+  "reason": "Full-page crawl measurements, responsive measurements and rendered DOM state snapshots from the guide.wagtail.org accessibility audit. Raw browser output; oversized for agent-runs.",
+  "archive": {
+    "file": "evidence.tar.gz",
+    "sha256": "ba0cff3795047c35b61e4b656202a41326c657dc95041b8aae72ffb609b8443e",
+    "bytes": 15360822,
+    "files": 14,
+    "payload_bytes": 210056497
+  },
+  "files": [
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/crawl.json",
+      "bytes": 85550470,
+      "sha256": "2fc2ab4d3959f59ebd55cdba71e13c8d0677a3a13c53aa6f9ff867e6c9f6928b"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/responsive.json",
+      "bytes": 100322756,
+      "sha256": "4e7e17b4d851077d2d6821d38467ea90f0409b8022c23b20a069fd6b451da01a"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/states.json",
+      "bytes": 5624894,
+      "sha256": "81353a2c4dcd72cce9d6733e3d76931b0515226cbd40e852cdfe4f167f075f90"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-404.html",
+      "bytes": 596401,
+      "sha256": "f6c8dd07cb01d234c7ed975c3cd197d8be3911f90ebff39a1cc7a62156a94939"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-copy-link-success.html",
+      "bytes": 2872262,
+      "sha256": "b99eadcc292a0cad5d0eec76d3dec0d1a2e902200dd8021a8546666633ba5eb8"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-copy-success.html",
+      "bytes": 2311208,
+      "sha256": "0d00fa7f21c82ed5fc72bbc613fb339c85778477c07f3323cca49dbeced89e5b"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-feedback-mocked-open.html",
+      "bytes": 3430204,
+      "sha256": "fe9051e96e1dd8066e93c19caab8e535c9645b6aaf6ebb05f462b1817f245afc"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-feedback-mocked-submitted.html",
+      "bytes": 3990814,
+      "sha256": "e3995fc8a95746cd2064e17065d06548f16188e724176020145afdeeffd734d4"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-modal-empty.html",
+      "bytes": 1750354,
+      "sha256": "de0ba09be494c011272ac35ed1c0621f90dd48cbc53d8c81c01c9cb0870ff929"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-modal-open.html",
+      "bytes": 628200,
+      "sha256": "61fa58dfa897e803f865e51c82e5a3f0733484cb590ce71ae105d365e15738c3"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-modal-results.html",
+      "bytes": 1190249,
+      "sha256": "8d2f94f8b72e8fa81246edf362f408d32286d01e61782162932bd1292eaafdb7"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-search-blank.html",
+      "bytes": 595133,
+      "sha256": "f755728b8afa6536dcd7d40f5b226d2b18275e412705ba936a91eaa5b4fae86e"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-search-empty.html",
+      "bytes": 595175,
+      "sha256": "706b7208217f365d7b8effd3dc38e2bf0f39a0bb2f0cefb35690c13380fec02b"
+    },
+    {
+      "path": "accessibility-agents/2026-10-06-guide/raw/state-search-results.html",
+      "bytes": 598377,
+      "sha256": "d6088cc5f1cc73b286349e329a95f516c9499daed72a7a9ed2607fed57b2b43e"
+    }
+  ]
+}

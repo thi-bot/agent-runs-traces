@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "thibaudcolas/agent-lighthouse",
+  "evaluation": "baseline",
+  "snapshot": "20261114",
+  "created_at": "2026-11-15T10:27:22.601231+00:00",
+  "source_repository": "https://github.com/thi-bot/agent-runs",
+  "source_revision": "3170f2d9115f84bee0af0de1bbc7055dcf956bd9",
+  "source_paths": [
+    "agent-lighthouse/2026-11-14T00-27-54Z/findings.json"
+  ],
+  "reason": "Flattened top-level engine checks across the nine-site Agent Lighthouse baseline. Regenerable with summarize.py from the per-site reports, which remain in agent-runs.",
+  "archive": {
+    "file": "evidence.tar.gz",
+    "sha256": "f5ae8af92726a4d9f64355cafb17fc125b7bec97e9744d2fad12671e58d1beb5",
+    "bytes": 1066813,
+    "files": 1,
+    "payload_bytes": 5113146
+  },
+  "files": [
+    {
+      "path": "agent-lighthouse/2026-11-14T00-27-54Z/findings.json",
+      "bytes": 5113146,
+      "sha256": "eac25949f56c2ccd2138f3e27dd69c0eb935f000482bc53a095e5d0d20a323ee"
+    }
+  ]
+}

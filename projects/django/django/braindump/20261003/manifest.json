@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "django/django",
+  "evaluation": "braindump",
+  "snapshot": "20261003",
+  "created_at": "2026-11-15T10:27:22.601231+00:00",
+  "source_repository": "https://github.com/thi-bot/agent-runs",
+  "source_revision": "3170f2d9115f84bee0af0de1bbc7055dcf956bd9",
+  "source_paths": [
+    "braindump-runs/runs/django/django/extractions.jsonl.gz"
+  ],
+  "reason": "Per-review-comment braindump extractions behind the django/django rule set: the provenance chain from raw PR comments to rules.",
+  "archive": {
+    "file": "evidence.tar.gz",
+    "sha256": "697daa88a557e19920071a91fa02a90d01f8f562092ecd659ffff6aa305f3929",
+    "bytes": 23874577,
+    "files": 1,
+    "payload_bytes": 23964151
+  },
+  "files": [
+    {
+      "path": "braindump-runs/runs/django/django/extractions.jsonl.gz",
+      "bytes": 23964151,
+      "sha256": "9c398d776470f8edddfa5d8f4ae928ca5faf300d7de1702859741bc83d18b6c3"
+    }
+  ]
+}
