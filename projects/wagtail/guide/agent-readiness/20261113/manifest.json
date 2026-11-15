@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "project": "wagtail/guide",
+  "evaluation": "agent-readiness",
+  "snapshot": "20261113",
+  "created_at": "2026-11-15T10:12:58.964845+00:00",
+  "execution_range": {
+    "start": "2026-11-05T06:48:21.517729Z",
+    "end": "2026-11-14T00:34:21.355519Z"
+  },
+  "source_repository": "https://github.com/wagtail/guide",
+  "results_repository": "https://github.com/thi-bot/guide",
+  "results_revision": "7324e6597049809dcd0a620b212213b580a3efee",
+  "results_path": "content/evals/agent-readiness-harbor/results/20261113",
+  "attempts": 9219,
+  "trajectories": 9185,
+  "missing_trajectories": 34,
+  "events": 28572,
+  "phases": {
+    "fable-5-2": 396,
+    "fable-pilot": 4,
+    "initial": 4356,
+    "mcp-full": 495,
+    "mcp-pilot": 51,
+    "mcp-preflight": 5,
+    "mcp-remaining": 1287,
+    "retry": 1761,
+    "tavily": 862,
+    "tavily-pilot": 2
+  },
+  "archive": {
+    "file": "evidence.tar.gz",
+    "sha256": "78187984822234707e3b31ad2a570d11ad13de9f0881a6829621d41677d606d8",
+    "bytes": 81858226,
+    "files": 18420,
+    "payload_bytes": 383092071
+  },
+  "contents": {
+    "trials": {
+      "files": 18404,
+      "bytes": 298559471
+    },
+    "analysis": {
+      "files": 4,
+      "bytes": 75855178
+    },
+    "tables": {
+      "files": 11,
+      "bytes": 6762062
+    }
+  },
+  "normalization": {
+    "json": "Serialized without indentation; trace IDs and response content retained except redactions.",
+    "paths": "Analysis trial_path and original_trial are archive-relative; source home paths use ${SOURCE_HOME}.",
+    "credentials": "Known credentials, credential patterns, query credentials and literal credential fields redacted.",
+    "counts": {
+      "known_credentials": 0,
+      "credential_patterns": 3,
+      "credential_query_parameters": 34,
+      "source_home_paths": 37821,
+      "credential_fields": 864
+    }
+  }
+}
